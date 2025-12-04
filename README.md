@@ -18,3 +18,4 @@ Un tablero interactivo desarrollado con **Python** y **Streamlit** para analizar
 
 ## 🚀 Cómo verlo en linea
 
+Link: https://dashboard-financiero-uy3tuftkobhvugtqszh34d.streamlit.app/
